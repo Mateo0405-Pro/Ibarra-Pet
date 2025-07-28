@@ -49,7 +49,7 @@ Ibarra-Pet/
 ## 🤝 Autor
 
 Desarrollado por **Mateo Perugachi**  
-Proyecto académico con propósito profesional, orientado a demostrar buenas prácticas en el desarrollo web estructurado con C#.
+Proyecto profesional, orientado a demostrar buenas prácticas en el desarrollo web estructurado con C#.
 
 ---
 
